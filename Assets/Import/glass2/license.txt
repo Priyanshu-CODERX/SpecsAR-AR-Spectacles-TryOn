@@ -1,0 +1,11 @@
+Model Information:
+* title:	Glass Collection: Spectacle 1
+* source:	https://sketchfab.com/3d-models/glass-collection-spectacle-1-081efa065fa249fa8dd16eeb9ef4939e
+* author:	zeeka_3d (https://sketchfab.com/zeeka_3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Glass Collection: Spectacle 1" (https://sketchfab.com/3d-models/glass-collection-spectacle-1-081efa065fa249fa8dd16eeb9ef4939e) by zeeka_3d (https://sketchfab.com/zeeka_3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
